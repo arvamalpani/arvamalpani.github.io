@@ -10,7 +10,7 @@
 - [OnlyFans: Real Money, Real Power, Real Women](blogs/onlyfans-real-money.md)
 -  [Gen Z and the EMI Life: Survival Hack or Debt Trap?](blogs/genz-emi-life.md)
 
--## 📊 Case Studies
+- 📊 Case Studies
 - [Palantir Due Diligence](case-studies/palantir-due-diligence.md)
 
 
