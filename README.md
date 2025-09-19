@@ -5,7 +5,7 @@
 📊 Achieved top marks in **IBDP Economics HL, Business Management HL, and Math HL**.  
 
 ---
-## 📖 Blogs
+## 📖 Thoughts(blogs)
 - [How India Eats: Joy vs. Guilt, ₹49 Dreams](blogs/how-india-eats.md)
 - [OnlyFans: Real Money, Real Power, Real Women](blogs/onlyfans-real-money.md)
 -  [Gen Z and the EMI Life: Survival Hack or Debt Trap?](blogs/genz-emi-life.md)
