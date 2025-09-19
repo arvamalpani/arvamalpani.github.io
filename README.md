@@ -5,5 +5,5 @@
 📊 Achieved top marks in **IBDP Economics HL, Business Management HL, and Math HL**.  
 
 ---
+- [How India Eats: Joy vs. Guilt, ₹49 Dreams](blogs/how-india-eats.md)
 
-]
