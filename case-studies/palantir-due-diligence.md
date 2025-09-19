@@ -4,19 +4,19 @@
 
 ---
 
-## TL;DR (the one-minute version)
-- Palantir builds software that helps governments and companies make tough decisions with messy data.  
-- Its business mix is shifting: once it was “mostly government,” now commercial is growing fast — that shift is critical for value.  
-- Cash flow is finally solid. If that momentum holds, the bull case makes a lot more sense.  
+## Execetive summary 
+- Palantir builds software that helps governments and businesses make sense of chaos.
+- For years, it leaned heavily on government contracts. Now commercial is catching up fast—and that shift could reshape its value.
+- Free cash flow has finally flipped positive. If that momentum holds, Palantir is no longer just “interesting tech”—it’s a real business.
 
 ---
 
 ## What Palantir Actually Sells
 Think of Palantir as a “decision workbench.”  
-- Governments: defense, intelligence, fraud detection.  
-- Companies: supply chain planning, plant operations, risk management.  
-
-Once it’s in, it sticks. Teams build their workflows around it, and ripping it out is painful.
+- Forget the buzzwords. Palantir is basically a decision workbench.
+- Governments use it for defense, intelligence, and fraud detection.
+- Companies use it to manage supply chains, run plants, and model risk.
+- Here’s the kicker: once Palantir lands inside an organization, it’s sticky as glue. Workflows get rebuilt around it. Ripping it out isn’t just hard—it’s painful.
 
 ---
 
@@ -33,19 +33,19 @@ Sources: Palantir 2024 10-K, Macrotrends.
 ![Revenue](images/palantir_rev_actual.png)  
 
 👉 What to watch:
-1. Is commercial catching up with government?  
-2. Are *new* logos joining, not just existing clients paying more?  
-3. Is growth global, or too US-heavy?  
+Revenue is climbing—but here’s the real test:
+- Can commercial catch government in size?
+- Are new customers joining, or just old ones spending more?
+- Is growth global—or still too U.S.-heavy?
+- Growth without diversification is fragile.
 
 ---
 
 ## Free Cash Flow
 ![FCF](images/palantir_fcf_actual.png)  
 
-Cash is what’s left after you run the shop.  
-This chart shows:  
-- They crossed the “we fund ourselves” line.  
-- Rising cash alongside rising revenue = healthier growth.  
+Cash is truth. It’s what’s left after the lights are on and salaries are paid.
+Palantir finally crossed into self-funded territory. That’s not just survival—it’s strength. Rising cash alongside rising revenue tells a story of growth that’s getting healthier, not riskier.
 
 ---
 
@@ -53,41 +53,50 @@ This chart shows:
 ![Sensitivity](images/palantir_sensitivity_actual.png)  
 
 Valuation depends on two dials:  
-- **WACC** (risk/return bar).  
-- **Terminal growth** (forever growth assumption).  
-
+- Here’s why opinions are so split: valuation rests on two knobs.
+- WACC: how risky investors think Palantir is.
+- Terminal growth: how fast you assume it grows forever.
+- Twist either knob, and the “fair price” jumps. That’s why Wall Street targets feel like throwing darts. Lesson: don’t cling to one number. Think in ranges.
 👉 Lesson: never trust one number — always think in ranges.  
 
 ---
-
 ## The Bull Case
-- AIP (their AI platform) becomes the go-to “AI workbench.”  
-- Margins stay disciplined → cash keeps compounding.  
-- International growth reduces dependency on US government deals.  
-
+- AIP (AI Platform) becomes the default “AI cockpit” for enterprises.
+- Margins stay disciplined, so cash keeps compounding.
+- Global expansion reduces dependence on U.S. government deals.
 ## The Bear Case
-- Government budget timing still drives results.  
-- Big competition: Microsoft, Snowflake, Databricks.  
-- Privacy concerns may slow adoption abroad.  
+- Government budgets still swing results.
+- Heavyweights like Microsoft, Snowflake, and Databricks fight for the same customers.
+- Privacy and politics could slow adoption overseas. 
 
 ---
 
 ## How I’d Track It (Quarter to Quarter)
-- Net new *commercial* customers.  
-- GAAP operating margin (not just adjusted).  
-- FCF vs. stock-based comp.  
-- Whether AIP is showing repeatability.  
-
+- If you want to cut through noise, watch these:
+- Net new commercial customers (logos matter).
+- GAAP operating margin (ignore “adjusted fairy dust”).
+- Free cash flow vs. stock-based comp (cash is real; dilution is too).
+- AIP adoption—are customers using it repeatedly, or just testing it once?
+  
 ---
+## Final Thought
+
+Palantir is at a crossroads.
+
+It’s no longer just a defense contractor with flashy pitch decks. It’s now a company throwing off real cash, with a shot at building an AI platform that sticks.
+
+The story isn’t about predicting the “right” share price—it’s about momentum. If commercial growth keeps catching fire and cash flow holds, the bull case writes itself. If not, Palantir risks staying in government’s shadow.
+
+👉 That’s the takeaway: numbers aren’t just data points. They’re a story. Palantir’s story is finally interesting—because it’s about choice, direction, and discipline.
 
 ## Proof of Work
-- Rebuilt revenue and FCF history from filings.  
-- Ran a simple DCF (discounted cash flow).  
-- Shared CSVs so anyone can check my math:  
+- This isn’t hand-wavy:
+- Rebuilt revenue + cash flow directly from filings.
+- Ran a simple discounted cash flow model.
+- Shared CSVs so anyone can check the math. 
 
 [DCF Cash Flows](images/palantir_dcf_table_actual.csv)  
 [DCF Summary](images/palantir_dcf_summary_actual.csv)  
 
 ---
 
-*The point isn’t to “predict a price.” It’s to show how raw numbers can be shaped into a clear, human story.*
