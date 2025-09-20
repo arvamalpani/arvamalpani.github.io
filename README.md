@@ -1,4 +1,4 @@
-# 👋 Hi, well who gives a fuck, Enjoy! 
+# 👋 Hi,Arva Malpani here.
 
 📚 Undergraduate at the **University of Nottingham**, pursuing **BSc Finance, Accounting & Management (with placement year)**.  
 🏅 Awarded the **UBC Outstanding International Student Scholarship**.  
