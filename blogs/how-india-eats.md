@@ -17,11 +17,6 @@ Reuters. (2025, Mar 27). *India’s quick commerce sector made two-thirds of all
 
 Reuters. (2025, Jun 10). *BigBasket to launch 10-minute food delivery across India by March 2026, executive says.* [https://www.reuters.com/world/india/bigbasket-launch-10-minute-food-delivery-across-india-by-march-2026-executive-2025-06-10/](https://www.reuters.com/world/india/bigbasket-launch-10-minute-food-delivery-across-india-by-march-2026-executive-2025-06-10/?utm_source=chatgpt.com)  [Reuters](https://www.reuters.com/world/india/bigbasket-launch-10-minute-food-delivery-across-india-by-march-2026-executive-2025-06-10/?utm_source=chatgpt.com)
 
-Tea Board of India. (2018). *Executive summary of study on domestic consumption of tea in India.* [https://www.teaboard.gov.in/pdf/Executive_Summary_Tea_Consumption_pdf9753.pdf](https://www.teaboard.gov.in/pdf/Executive_Summary_Tea_Consumption_pdf9753.pdf?utm_source=chatgpt.com)  [teaboard.gov.in](https://www.teaboard.gov.in/pdf/Executive_Summary_Tea_Consumption_pdf9753.pdf?utm_source=chatgpt.com)
-
-Tea Board of India / IBEF. (2024). *Indian tea industry.* [https://ibef.org/exports/indian-tea-industry](https://ibef.org/exports/indian-tea-industry?utm_source=chatgpt.com)
-
-
 
 
 
