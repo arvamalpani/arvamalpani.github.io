@@ -5,47 +5,14 @@ Gen Z didn’t invent debt—they stripped out the friction and made it feel lik
 ## References 
 
 Citizens Advice. (2024, Oct 18). Citizens Advice responds to new Buy Now, Pay Later protections. https://www.citizensadvice.org.uk/about-us/media-centre/press-releases/citizens-advice-responds-to-new-buy-now-pay-later-protections/
- 
-Citizens Advice
-
-Citizens Advice. (2025, Jul 18). Response to the FCA’s announcement on BNPL. https://www.citizensadvice.org.uk/about-us/media-centre/press-releases/citizens-advices-response-to-the-fcas-announcement-on-buy-now-pay-later/
- 
-Citizens Advice
-
+Citizens Advice. (2025, Jul 18). Response to the FCA’s announcement on BNPL. https://www.citizensadvice.org.uk/about-us/media-centre/press-releases/citizens-advices-response-to-the-fcas-announcement-on-buy-now-pay-later
 Consumer Financial Protection Bureau. (2025, Jan 8). Consumer use of BNPL and other unsecured credit. https://files.consumerfinance.gov/f/documents/cfpb_BNPL_Report_2025_01.pdf
- 
-files.consumerfinance.gov
-
 FCA. (2025, Jul 18). CP25/23: Deferred Payment Credit—proposed approach to regulation. https://www.fca.org.uk/publications/consultation-papers/cp25-23-deferred-payment-credit-proposed-approach-regulation
- 
-FCA
-
-Finder. (2025, Jan 16). Buy now, pay later statistics UK. https://www.finder.com/uk/buy-now-pay-later/buy-now-pay-later-statistics
- 
-finder.com
-
+ Finder. (2025, Jan 16). Buy now, pay later statistics UK. https://www.finder.com/uk/buy-now-pay-later/buy-now-pay-later-statistic
 Klarna. (2025, May 2). Klarna hits 11 million UK customers… https://www.klarna.com/international/press/klarna-hits-11-million-uk-customers-as-uk-revenue-soars-30-in-breakout-2024/
- 
-Klarna
-
-LendingTree. (2025, Sep 10). 41% of BNPL users paid late in the past year. https://www.lendingtree.com/personal/buy-now-pay-later-loan-statistics/
- 
-LendingTree
-
-RBA. (2024). Payments System—mobile wallet growth. https://www.rba.gov.au/publications/annual-reports/psb/2024/payments-system-regulation-and-policy-issues.html
- 
-Reserve Bank of Australia
-
+ LendingTree. (2025, Sep 10). 41% of BNPL users paid late in the past year. https://www.lendingtree.com/personal/buy-now-pay-later-loan-statistics/
+ RBA. (2024). Payments System—mobile wallet growth. https://www.rba.gov.au/publications/annual-reports/psb/2024/payments-system-regulation-and-policy-issues.html
 The Guardian. (2024, Apr 10). 7.4m UK consumers struggling to pay bills—FCA. https://www.theguardian.com/business/2024/apr/10/paying-bills-a-struggle-for-74-million-uk-consumers-regulator-finds
- 
-The Guardian
-
 Business Insider. (2025, Jul). BNPL to hit credit scores; Gen Z at risk. https://www.businessinsider.com/buy-now-pay-later-gen-z-credit-scores-fico-klarna-2025-6
- 
-Business Insider
-
 Food & Wine. (2025, May). BNPL for groceries is rising. https://www.foodandwine.com/buy-now-pay-later-loans-groceries-lendingtree-report-11733465
- 
-Food & Wine
-
 Experian. (2024). Annual report. https://www.experianplc.com/content/dam/marketing/global/plc/en/assets/documents/reports/2024/experian_annual_report_2024_web.pdf
