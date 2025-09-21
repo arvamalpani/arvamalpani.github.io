@@ -1,6 +1,6 @@
-# Palantir — A Case Study You Can Actually Read
+# Palantir 
 
-*The goal here is simple: take the charts and numbers, and turn them into a story anyone can follow. No jargon. Just finance explained like a conversation.*
+*The goal here is simple: I have attempted to make a due dillegence report. 
 
 ---
 
