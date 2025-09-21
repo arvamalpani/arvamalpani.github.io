@@ -86,7 +86,9 @@ In my opinion here are some key indicators stakeholders should look for:
 - AIP adoption. Scaled rollouts and repeatable playbooks—or one-off pilots with pretty slides?
 
 If Palantir sustains margin discipline, converts its commercial pipeline into repeatable wins, and proves AIP is a scalable platform—not a demo—the business can compound for years. If those signals fade, the narrative reverts to a government-heavy, volatile profile with capped upside.
+
 ---
+
 ## 9. Proof of Work
 
 We rebuilt the numbers straight from public filings (10-Ks) and pressure-tested them in a plain-vanilla DCF using conservative assumptions. No heroics, no rosy inputs—just what the filings support. All source data and calculations sit in clean CSVs.CSV files provided for transparency.
