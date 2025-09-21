@@ -4,99 +4,91 @@
 
 ---
 
-## Execetive summary 
-- Palantir builds software that helps governments and businesses make sense of chaos.
-- For years, it leaned heavily on government contracts. Now commercial is catching up fast—and that shift could reshape its value.
-- Free cash flow has finally flipped positive. If that momentum holds, Palantir is no longer just “interesting tech”—it’s a real business.
+## 1. Corporate Overview  
+Palantir Technologies is a U.S. software company based in Denver, Colorado. It started back in 2003 with a clear mission: to help people make sense of messy, overwhelming data—and turn it into smart decisions.
 
+At first, Palantir made its name working with the U.S. government. Its tools powered defense, intelligence, and counter-terrorism efforts. But over the past few years, the company has shifted its focus. It’s been leaning into the private sector, looking to grow beyond government work and build a more stable, diverse business.
+
+What sets Palantir apart is how deeply its software gets woven into a customer’s day-to-day work. They call it a “decision workbench”—but it’s more than that. Teams build entire workflows on top of Palantir’s platform, which makes it incredibly hard to walk away from. Once you're in, you're in—and that’s exactly how Palantir likes it.
 ---
 
-## What Palantir Actually Sells
-Think of Palantir as a “decision workbench.”  
-- Forget the buzzwords. Palantir is basically a decision workbench.
-- Governments use it for defense, intelligence, and fraud detection.
-- Companies use it to manage supply chains, run plants, and model risk.
-- Here’s the kicker: once Palantir lands inside an organization, it’s sticky as glue. Workflows get rebuilt around it. Ripping it out isn’t just hard—it’s painful.
+## 2. Financial Overview
+Palantir’s financial story is one of steady growth and serious momentum.
+Revenue keeps climbing: from $1.91 billion in 2022, to $2.23 billion in 2023, and a projected $2.87 billion in 2024. That’s not just growth—it’s acceleration.
+Free cash flow is where things really take off. What was $184 million in 2022 has surged to $697 million in 2023, and is on track to hit $1.14 billion in 2024. That’s a business flipping the switch from burning cash to printing it.
+Gross margins sit comfortably in the high 70s—right in line with the best SaaS companies out there.
+And the balance sheet? Clean. Palantir is net cash positive with zero meaningful long-term debt. It’s not just staying afloat—it’s funding its own future.This shift into strong, sustained cash generation marks a turning point. Palantir isn’t just surviving anymore—it’s building, growing, and doing it on its own terms.
 
----
+As we can see that Palantir’s numbers tell a clear story: growth is kicking into high gear.
+Revenue climbed from $1.91B in 2022, to $2.23B in 2023, and is set to reach $2.87B in 2024.
+Free cash flow followed suit—jumping from $184M to $697M, and now headed toward $1.14B.
+Customer mix is shifting: Government still makes up a bit more than half, but commercial is driving the momentum.
 
-## The Numbers (Last 3 Years)
-- **Revenue:** $1.91B (2022) → $2.23B (2023) → $2.87B (2024).  
-- **Free Cash Flow:** $184M → $697M → $1.14B.  
-- **Mix:** Government is still a little over half; commercial is the growth engine.  
 
+
+![Revenue](images/palantir_rev_actual.png)
+![FCF](images/palantir_fcf_actual.png) 
 Sources: Palantir 2024 10-K, Macrotrends.
+---
+## 3. Capitalization & Indebtedness
+
+Shares Outstanding: ~2.1 billion (2024)
+
+Market Cap: ~$60 billion (mid-2025)
+
+Capital Structure: ~$3B in cash, no significant long-term debt
+
+Palantir runs lean and self-sufficient. It funds its operations and growth entirely from within—no outside borrowing, no debt overhang. That’s rare for a high-growth software company.
+
+The tradeoff? Instead of debt, Palantir leans heavily on stock-based compensation, which helps preserve cash but dilutes shareholders over time.
 
 ---
+## 4. Operations & Clients
 
-## Revenue Trend
-![Revenue](images/palantir_rev_actual.png)  
+Palantir serves two main types of customers:
 
-👉 What to watch:
-Revenue is climbing—but here’s the real test:
-- Can commercial catch government in size?
-- Are new customers joining, or just old ones spending more?
-- Is growth global—or still too U.S.-heavy?
-- Growth without diversification is fragile.
+Government: U.S. Department of Defense, intelligence agencies, and allied governments around the world.
+Commercial: Industries like finance, healthcare, energy, manufacturing, and logistics. As of 2024, government still makes up just over half of total revenue, but commercial is where the real growth is happening—and it's scaling fast. What makes Palantir stand out is how deeply it embeds into a client’s operations. Once it’s in, it’s hard to replace. The software powers critical functions like supply chain management, fraud detection, and plant operations—the stuff that keeps organizations running. That deep integration shows up in the numbers: retention rates above 115%, thanks to consistent upsells and long-term customer loyalty.
 
----
+Bottom line: commercial is gaining ground and steadily shifting the balance.
 
-## Free Cash Flow
-![FCF](images/palantir_fcf_actual.png)  
-
-Cash is truth. It’s what’s left after the lights are on and salaries are paid.
-Palantir finally crossed into self-funded territory. That’s not just survival—it’s strength. Rising cash alongside rising revenue tells a story of growth that’s getting healthier, not riskier.
 
 ---
+## 5. Key Risks & Dependencies
 
-## Sensitivity (Why Analysts Disagree)
+Palantir may be growing fast, but it’s not without serious risks—and anyone investing in or acquiring the company needs to understand them clearly. First, the business still leans heavily on government contracts. That means it's exposed to the unpredictability of budget cycles, political winds, and long procurement timelines—factors that can stall growth or create revenue shocks with little warning. Second, competition is heating up fast. Heavyweights like Microsoft (with Azure AI), Snowflake, and Databricks are all fighting for the same enterprise budgets, and they’re gaining ground in areas Palantir has traditionally dominated. There’s also the issue of perception. Palantir’s close ties to defense and intelligence work have sparked ongoing concerns about surveillance and data privacy, especially in Europe. These concerns don’t just create PR headaches—they can delay or derail deals altogether. Finally, while Palantir is proud of funding its growth from operations, it comes at a cost: the company uses a lot of stock-based compensation to pay employees. That keeps cash flow strong, but it also dilutes existing shareholders—a growing concern among investors who are starting to demand more discipline.
+Valuation remains highly sensitive to assumptions about growth and discount rates. 
 ![Sensitivity](images/palantir_sensitivity_actual.png)  
 
-Valuation depends on two dials:  
-- Here’s why opinions are so split: valuation rests on two knobs.
-- WACC: how risky investors think Palantir is.
-- Terminal growth: how fast you assume it grows forever.
-- Twist either knob, and the “fair price” jumps. That’s why Wall Street targets feel like throwing darts. Lesson: don’t cling to one number. Think in ranges.
-👉 Lesson: never trust one number — always think in ranges.  
-
 ---
-## The Bull Case
-- AIP (AI Platform) becomes the default “AI cockpit” for enterprises.
-- Margins stay disciplined, so cash keeps compounding.
-- Global expansion reduces dependence on U.S. government deals.
-## The Bear Case
-- Government budgets still swing results.
-- Heavyweights like Microsoft, Snowflake, and Databricks fight for the same customers.
-- Privacy and politics could slow adoption overseas. 
+
+## 6. Opportunities & Growth Levers
+
+Palantir is well-positioned to unlock further value through several key growth levers. The most immediate catalyst is the rapid adoption of its Artificial Intelligence Platform (AIP). If AIP solidifies its role as the default “cockpit” for enterprise AI—centralizing decision-making and integrating with core business workflows—it could significantly accelerate commercial growth. Beyond product momentum, international expansion offers a clear path to reduce U.S. customer concentration and tap into underpenetrated markets across Europe, Asia, and the Middle East. Lastly, operating leverage remains a major upside driver. If Palantir can maintain strong gross margins while scaling revenue, it has the potential to compound free cash flow at a highly attractive rate—transitioning from growth story to durable compounder.
 
 ---
 
-## How I’d Track It (Quarter to Quarter)
-- If you want to cut through noise, watch these:
-- Net new commercial customers (logos matter).
-- GAAP operating margin (ignore “adjusted fairy dust”).
-- Free cash flow vs. stock-based comp (cash is real; dilution is too).
-- AIP adoption—are customers using it repeatedly, or just testing it once?
-  
+## 7. Consolidated Risks (Bear Case)
+
+While Palantir’s upside is compelling, execution risk is real and must be accounted for. The company remains heavily dependent on government contracts, which are inherently cyclical, politically sensitive, and prone to delays. This concentration adds volatility to revenue and limits near-term visibility. At the same time, Palantir faces intense pressure from larger, well-capitalized rivals—such as Microsoft and Amazon—that can bundle AI and data services at scale, often undercutting Palantir on price or integration depth. Finally, the company continues to attract regulatory and ethical scrutiny, particularly around data privacy and surveillance. These concerns could limit adoption in key international markets, especially Europe, and weigh on commercial momentum. once? 
 ---
-## Final Thought
+## 8. Conclusion & Monitoring Points
 
-Palantir is at a crossroads.
+Palantir’s at the line of scrimmage. It’s not a “defense vendor with dreams” anymore—it’s spitting cash and pushing hard into commercial. From here it’s binary: execute or get boxed in.
 
-It’s no longer just a defense contractor with flashy pitch decks. It’s now a company throwing off real cash, with a shot at building an AI platform that sticks.
+In my opinion here are some key indicators stakeholders should look for:
 
-The story isn’t about predicting the “right” share price—it’s about momentum. If commercial growth keeps catching fire and cash flow holds, the bull case writes itself. If not, Palantir risks staying in government’s shadow.
+- New commercial logos + international wins. Real names, real deals, steady pace.
+- GAAP operating margin. Not “adjusted.” Show discipline or don’t.
+- Free cash flow vs. stock comp. Cash in, dilution out—net value or just musical chairs?
+- AIP adoption. Scaled rollouts and repeatable playbooks—or one-off pilots with pretty slides?
 
-👉 That’s the takeaway: numbers aren’t just data points. They’re a story. Palantir’s story is finally interesting—because it’s about choice, direction, and discipline.
-
-## Proof of Work
-- This isn’t hand-wavy:
-- Rebuilt revenue + cash flow directly from filings.
-- Ran a simple discounted cash flow model.
-- Shared CSVs so anyone can check the math. 
+If Palantir sustains margin discipline, converts its commercial pipeline into repeatable wins, and proves AIP is a scalable platform—not a demo—the business can compound for years. If those signals fade, the narrative reverts to a government-heavy, volatile profile with capped upside.
+---
+## 9. Proof of Work
+We rebuilt the numbers straight from public filings (10-Ks) and pressure-tested them in a plain-vanilla DCF using conservative assumptions. No heroics, no rosy inputs—just what the filings support. All source data and calculations sit in clean CSVs.CSV files provided for transparency.
 
 [DCF Cash Flows](images/palantir_dcf_table_actual.csv)  
 [DCF Summary](images/palantir_dcf_summary_actual.csv)  
-
 ---
 
