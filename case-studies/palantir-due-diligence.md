@@ -71,6 +71,8 @@ Palantir is well-positioned to unlock further value through several key growth l
 ## 7. Consolidated Risks (Bear Case)
 
 While Palantir’s upside is compelling, execution risk is real and must be accounted for. The company remains heavily dependent on government contracts, which are inherently cyclical, politically sensitive, and prone to delays. This concentration adds volatility to revenue and limits near-term visibility. At the same time, Palantir faces intense pressure from larger, well-capitalized rivals—such as Microsoft and Amazon—that can bundle AI and data services at scale, often undercutting Palantir on price or integration depth. Finally, the company continues to attract regulatory and ethical scrutiny, particularly around data privacy and surveillance. These concerns could limit adoption in key international markets, especially Europe, and weigh on commercial momentum. once? 
+
+
 ---
 ## 8. Conclusion & Monitoring Points
 
@@ -86,6 +88,7 @@ In my opinion here are some key indicators stakeholders should look for:
 If Palantir sustains margin discipline, converts its commercial pipeline into repeatable wins, and proves AIP is a scalable platform—not a demo—the business can compound for years. If those signals fade, the narrative reverts to a government-heavy, volatile profile with capped upside.
 ---
 ## 9. Proof of Work
+
 We rebuilt the numbers straight from public filings (10-Ks) and pressure-tested them in a plain-vanilla DCF using conservative assumptions. No heroics, no rosy inputs—just what the filings support. All source data and calculations sit in clean CSVs.CSV files provided for transparency.
 
 [DCF Cash Flows](images/palantir_dcf_table_actual.csv)  
