@@ -10,6 +10,7 @@ Palantir Technologies is a U.S. software company based in Denver, Colorado. It s
 At first, Palantir made its name working with the U.S. government. Its tools powered defense, intelligence, and counter-terrorism efforts. But over the past few years, the company has shifted its focus. It’s been leaning into the private sector, looking to grow beyond government work and build a more stable, diverse business.
 
 What sets Palantir apart is how deeply its software gets woven into a customer’s day-to-day work. They call it a “decision workbench”—but it’s more than that. Teams build entire workflows on top of Palantir’s platform, which makes it incredibly hard to walk away from. Once you're in, you're in—and that’s exactly how Palantir likes it.
+
 ---
 
 ## 2. Financial Overview
