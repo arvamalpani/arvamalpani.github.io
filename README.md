@@ -7,11 +7,12 @@
 
 - 🎓 **UBC Outstanding International Student Scholarship**  
   [📄 View Certificate (PDF)](https://github.com/arvamalpani/arvamalpani.github.io/raw/main/Scholarships.pdf)
+  - 
 
 ---
 
 
-📊 Achieved top marks in **IBDP Economics HL, Business Management HL, and Math HL**.  
+  
 
 ---
 ## 📖 Thoughts(blogs)
