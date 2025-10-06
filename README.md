@@ -7,7 +7,11 @@
 
 - 🎓 **UBC Outstanding International Student Scholarship**  
   [📄 View Certificate (PDF)](https://github.com/arvamalpani/arvamalpani.github.io/raw/main/Scholarships.pdf)
-  - 
+
+- 🧠 **Lumiere Research Scholar (Economics)**  
+  Conducted an independent economic research project under mentorship from Ivy League faculty, earning top evaluation for originality and analytical depth.  
+  [📄 View Certificate (PDF)](https://github.com/arvamalpani/arvamalpani.github.io/raw/main/Research%20paper%20Certificate.pdf)
+
 
 ---
 
