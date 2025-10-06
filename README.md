@@ -1,7 +1,16 @@
 # 👋 Hi,Arva Malpani here.
 
-📚 Undergraduate at the **University of Nottingham**, pursuing **BSc Finance, Accounting & Management (with placement year)**.  
-🏅 Awarded the **UBC Outstanding International Student Scholarship**.  
+📚 Undergraduate at the **University of Nottingham**, pursuing **BSc Finance, Accounting & Management.    
+---
+
+## 🏆 Achievements & Certifications
+
+- 🎓 **UBC Outstanding International Student Scholarship**  
+  [📄 View Certificate (PDF)](https://github.com/arvamalpani/arvamalpani.github.io/raw/main/Scholarships.pdf)
+
+---
+
+
 📊 Achieved top marks in **IBDP Economics HL, Business Management HL, and Math HL**.  
 
 ---
